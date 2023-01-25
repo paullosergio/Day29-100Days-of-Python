@@ -7,9 +7,9 @@ Tkdocs for canvas [here](https://tkdocs.com/tutorial/canvas.html)
 
 ## UI setup section
 
-1.In user interface section,create canvas widget with title Password Manager,width and height of 200px and padding 20 px from all edges.Logo is in center of canvas.
+1.In user interface section,create canvas widget with title Password Manager,width and height of 200px and padding 50 px from all edges.Logo is in center of canvas.
 
-2.Use grid() and **columnspan** to complete user interface(add labels and entry for website,email/username,password) and buttons for generate password and add password and remove password.
+2.Use grid() and **columnspan** to complete user interface(add labels and entry for website,email/username,password) and buttons for generate password and add password.
 
 3.Now when we run code,we can bring cursor to website entry using focus method
 
