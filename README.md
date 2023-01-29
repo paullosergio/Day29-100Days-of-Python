@@ -43,3 +43,9 @@ These make code more pythonic.
 9.Now use insert() to display randomly generated password in password entry field.
 
 10.Use [pyperclip](https://pypi.org/project/pyperclip/) to copy password directly to clipboard.Now we can directly use ctrl+v to paste password in our website.
+
+## Search password section
+
+11.Change data.txt to data.json.
+
+12.Create tge search button, to find the password of the a given website.
